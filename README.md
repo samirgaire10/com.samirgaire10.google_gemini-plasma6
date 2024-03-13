@@ -13,7 +13,7 @@
 Just fork or clone the project :
 
 run the command on terminal
-`git clone `
+`git clone https://github.com/samirgaire10/com.samirgaire10.google_gemini-plasma6.git`
 
 move the folder to `/usr/share/plasma/plasmoids/`
 !!! sudo is required !!!
