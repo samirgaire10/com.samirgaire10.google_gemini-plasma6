@@ -47,6 +47,9 @@ there are few problems / ISSUES with this plasmoid
 
 - perplexityAi [Github](https://github.com/samirgaire10/com.samirgaire10.perplexityAi-plasma6.git)
 
+ - Blackbox AI  [Github](https://github.com/samirgaire10/blackbox.AI.git)
+
+
 ## For plasma 5
 
 - Goolge gimini [Github](https://github.com/samirgaire10/com.samirgaire10.Google-Gemini)
