@@ -12,7 +12,8 @@
         "Id": "com.samirgaire10.google_gemini-plasma6",
         "License": "GPL-2.0+",
         "Name": "Google_gemini",
-        "Website": "https://kde.org/plasma-desktop"
+        "Website": "https://github.com/samirgaire10/com.samirgaire10.google_gemini-plasma6.git",
+        "github": "https://github.com/samirgaire10/"
     },
     "X-Plasma-API-Minimum-Version": "6.0"
 }
