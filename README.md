@@ -17,6 +17,15 @@ run the command on terminal
 
 move the folder to `.local/share/plasma/plasmoids/`
 
+## ISSUES
+
+!!!!!!!!!  --
+"Plasmoid does not  retain login credentials or any other data after a session ends. Thus, each time you shut down, restart, or log out from your PC,
+you'll need to sign in again."
+
+--  !!!!!!!!!  
+
+
 
 ## For plasma 6
 
