@@ -74,6 +74,21 @@ PlasmoidItem {
 
                 readonly property bool useMinViewWidth : plasmoid.configuration.useMinViewWidth
 
+
+
+  WebEngineProfile {
+            id: geminiProfile
+            httpUserAgent: getUserAgent()
+            storageName: "gemini"
+            offTheRecord: false
+            httpCacheType: WebEngineProfile.DiskHttpCache
+            persistentCookiesPolicy: WebEngineProfile.ForcePersistentCookies
+        }
+
+        profile: geminiProfile
+
+
+
                 Connections {
                     target: plasmoid.configuration
 
